@@ -17,7 +17,7 @@ from sklearn.metrics import accuracy_score
 import pickle
 
 #set path
-data_path='outpath/'
+data_path='datafolder/'
 action_name='answers.txt'
 save_model_path='result_crnn/'
 
